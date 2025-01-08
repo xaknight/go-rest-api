@@ -31,8 +31,8 @@ This project is a simple RESTful API for managing course information, built usin
 1. **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd <repository-name>
+    git clone https://github.com/xaknight/go-rest-api.git
+    cd go-rest-api
     ```
 
     (Replace `<repository-url>` and `<repository-name>` with your repository's URL and name)
