@@ -55,11 +55,6 @@ This project is a simple RESTful API for managing course information, built usin
     go run main.go
     ```
 
-    The API will start listening on port 8000. You'll see the message:
-
-    ```
-    API  - LearnCodeOnline.in
-    ```
 
 ## API Endpoints
 
