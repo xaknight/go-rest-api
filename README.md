@@ -35,8 +35,6 @@ This project is a simple RESTful API for managing course information, built usin
     cd go-rest-api
     ```
 
-    (Replace `<repository-url>` and `<repository-name>` with your repository's URL and name)
-
 2. **Download dependencies:**
 
     ```bash
